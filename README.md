@@ -4,6 +4,10 @@ pour reprendre une idée placée dans un glaçon
 
 ## Pour le faire fondre
 
+### Mais que voulait-il faire exactement, avec le `volumes_from` ?
+
+Manifestement, récupérer les données cartographiques de postgis...
+
 [Source](https://stackoverflow.com/questions/45494746/docker-compose-volumes-from-usage-example)
 
 
